@@ -1,0 +1,9 @@
+node_modules/
+server/
+
+.idea
+
+.DS_Store
+
+项目结构.md
+test.js
